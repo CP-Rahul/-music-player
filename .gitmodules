@@ -1,0 +1,3 @@
+[submodule "music-player-backend"]
+	path = music-player-backend
+	url = https://github.com/CP-Rahul/music-player-backend.git
